@@ -1,0 +1,15 @@
+{% load static %}
+.carousel,
+.carousel .carousel-inner,
+.carousel .carousel-inner .active,
+.carousel .carousel-inner .carousel-item,
+.view,
+body,
+html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,
+
+
+.ch
+{
+background: url("/static/img/s1.jpg")
+}
+
